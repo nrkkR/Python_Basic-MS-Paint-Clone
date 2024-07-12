@@ -61,7 +61,7 @@ Methods:
 - text_draw(): Adds text to the canvas.
 
 ## Screenshots
-
+<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Python_Enhanced-Tic-Tac-Toe/blob/main/py_ttt%20welcome%20screen.png">
 
 ## Credits
 - Author: Rajdeep Mondal
